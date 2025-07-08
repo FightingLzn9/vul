@@ -1,4 +1,5 @@
-### <font style="color:rgb(28, 31, 35);">The `/business/common/sms/sendsms.jsp` interface is vulnerable to arbitrary file upload attacks. The relevant upload code is as follows:</font>
+### <font style="color:rgb(28, 31, 35);">The `/business/common/sms/sendsms.jsp` interface is vulnerable to arbitrary file upload attacks. 
+The relevant upload code is as follows:</font>
 
 <font style="color:rgb(28, 31, 35);">The number of IPs using this software and their fingerprints are as follows:</font>
 
