@@ -1,4 +1,10 @@
-### <font style="color:rgba(0, 0, 0, 0.85);">The </font>`<font style="color:rgba(0, 0, 0, 0.85);">/common/jsp/upload2.jsp</font>`<font style="color:rgba(0, 0, 0, 0.85);"> interface is vulnerable to arbitrary file upload attacks.</font>
+### The /common/jsp/upload2.jsp interface is vulnerable to arbitrary file upload attacks.
+The number of IPs using this software and their fingerprints are as follows:
+
+1,342 matching results, with 735 unique IPs.
+
+![](https://cdn.nlark.com/yuque/0/2025/png/50620181/1751782333856-f16a2cbf-071d-4f15-9b3a-39d858a04271.png?x-oss-process=image%2Fformat%2Cwebp)
+
 <font style="color:rgba(0, 0, 0, 0.85);">Let's analyze this code carefully as it has some unique features:</font>  
 ![](https://cdn.nlark.com/yuque/0/2025/png/50620181/1751882304870-74c42ffd-ca2f-48ab-b14c-92cca2f3ca62.png)
 
