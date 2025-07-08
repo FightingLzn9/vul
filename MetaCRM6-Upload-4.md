@@ -10,7 +10,7 @@ The number of IPs using this software and their fingerprints are as follows:
 
 <font style="color:rgb(28, 31, 35);">For the file path parameter `path`, trace the method `com.metasoft.framework.pub.util.Path.getUserFile()`.</font>
 
-![](https://cdn.nlark.com/yuque/0/2025/png/50620181/1751877862391-e62f64ee-00b6-4def-a11a-03fbf0663abb.png)
+![](https://github.com/FightingLzn9/vul/blob/main/image.png)
 
 Here's the English translation of the analysis:
 
