@@ -124,11 +124,11 @@ public class HelloAES {
     private byte[] key = SECRET_KEY.getBytes();
 
 
-    public FuckAES(String secretKey) {
+    public HelloAES(String secretKey) {
         this.key = secretKey.getBytes();
     }
 
-    public FuckAES() {
+    public HelloAES() {
     }
 
     public String encrypt(String sSrc) {
